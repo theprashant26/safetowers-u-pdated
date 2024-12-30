@@ -1,0 +1,961 @@
+.container {
+	width: 100%! important
+}
+#bsstreems .bsBtn {
+	padding-top: 2px;
+	font-size: 15pt;
+	/*margin-top: -16px;*/
+}
+.my_item {
+	height: 100%;
+	position: relative;
+	margin-left: 15px;
+}
+.about_padd {
+    padding: 20px 50px;
+}
+.selfservice img {width:100%;height:425px;}
+.about_pain {
+	padding: 0 50px;
+}
+.about_founder {
+	padding: 0 50px;
+}
+.team_profilenew {
+	width: 250px;
+	margin-top: 14px;
+}
+.navbar-brand {
+	padding: 15px 0px !important;
+}
+.showteam_div img {
+	width: 220px
+}
+.mt_0 {
+	text-align: left;
+}
+.product_data ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.product_data ul li {
+	width: 24%;
+	float: left;
+	margin: 0 4.5%
+}
+.product_data_sev ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.product_data_sev ul li {
+	width: 49%;
+	float: left;
+	margin: 0 0.5%
+}
+.mangeteamul ul li {
+	padding: 0;
+	width: 20%;
+}
+.our-productcol {
+	height: 454px;
+}
+@media only screen and (max-width: 768px) {
+.mr20_px {
+	margin: 0!important;
+}
+
+.h2, h2{font-size: 17px!important}
+.lSSlideOuter.vertical .lightSlider>*{
+	padding-left: 0!important;
+}
+.praghrphdetail {
+	text-align: center;
+	height: 50px;
+}
+#copyriht .copyr .c_innr_rt {
+	float: left;
+	padding-top: 10px;
+}
+.product_data ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#bsstreems .bsBtn {
+	padding-top: 2px;
+	font-size: 15pt;
+	margin-top: -40px!important;
+}
+.kndcenteima .safetower-release {
+	top: 0;
+}
+.product_data ul li {
+	width: 49%;
+	float: left;
+	margin: 0 0.5%
+}
+.about_padd {
+	padding: 0;
+}
+.about_pain {
+	padding: 0;
+}
+.about_founder {
+	padding: 0;
+}
+.ft-sflog {
+	margin-top: 15px;
+}
+.navbar-brand {
+	padding: 15px 0px!important;
+}
+.kndcenteima img {
+	height: 100%;
+	width: 105%;
+}
+.navbar-brand {
+	float: left;
+	height: 50px;
+	padding: 15px 15px;
+	font-size: 18px;
+	line-height: 20px;
+	margin-left: -12px!important;
+}
+.lst4:nth-child(6) {
+	padding-right: 0! important;
+}
+.lst4:nth-child(10) {
+	padding-right: 0!important;
+}
+.product_resp {
+	width: 60%;
+	height: 60px;
+	font-size: 15px!important;
+}
+.product_to {
+	width: 40%;
+	height: 60px;
+}
+.prodcut_textcontnt h1, .prodcut_textcontnt h2,  .prodcut_textcontnt h3, .prodcut_textcontnt h4,  .prodcut_textcontnt h5, .prodcut_textcontnt h6 {
+	font-size: 14px;
+}
+#blogs {
+	background-color: #fffef2;
+	padding: 20px 0 15px;
+}
+.productbt-hov span {
+	font-size: 24px;
+	font-family: Tungsten;
+	font-weight: inherit;
+}
+.productbt-hov {
+	top: 65%;
+	text-align: center;
+	width: 100%;
+	background: #0000007d;
+	border-bottom-left-radius: 5%;
+	border-bottom-right-radius: 5%;
+	color: #fff;
+	position: absolute;
+}
+.projName {
+	width: 60%;
+	height: 70px;
+}
+.projNamest {
+	width: 70%;
+	font-size: 14px;
+}
+.proall {
+	width: 40%;
+	height: 70px;
+}
+#clients h2 {
+	font-size: 26px !important;
+	    margin: 35px 0 35px !important;
+}
+
+#navbar > .navbar-nav>li {
+        padding: 5px 0px 0px 15px!Important;
+}
+#navbar > .navbar-nav>li a {
+    border-bottom:0px!IMportant;   
+}
+#solutions h2 {
+	font-size: 26px !important;
+	margin: 15px 0 !important;
+}
+#keyprojects h2 {
+	font-size: 26px !important;
+	margin: 15px 0 !important;
+}
+#bsstreems h2 {
+	font-size: 26px !important;
+	margin: 15px 0 !important;
+}
+#clientsTestimonials h2 {
+	color: #ff6600!important;
+	font-size: 26px !important;
+	line-height: 42px;
+	font-weight: bold;
+	margin: 15px 0!important;
+	font-family: Tungsten;
+	letter-spacing: 1.2px;
+}
+.project .keyBtn span {
+	color: #fff;
+	text-transform: uppercase;
+	font-family: tungsten;
+	font-size: 24px;
+}
+.my_item {
+	height: 100%;
+	position: relative;
+	padding: 0 15px;
+}
+#footer .box2 {
+	line-height: 22px;
+	margin-top: 5px;
+}
+#footer .box12 {
+	line-height: 22px;
+	margin-top: 5px;
+}
+.sm-device .owl-nav .owl-prev {
+	top: 50%;
+	left: 0%;
+	position: absolute;
+}
+.sm-device .owl-nav .owl-next {
+	top: 50%;
+	right: 0%;
+	position: absolute;
+}
+.sm-device .owl-stage-outer {
+	width: 100%;
+	margin: auto;
+}
+.sm-device .item {
+	width: 80%;
+	position: relative;
+}
+.container {
+	width: 100%! important
+}
+.towering {
+	font-size: 24px !important;
+	font-weight: 600;
+}
+.title {
+	color: #ff6600;
+	font-size: 16px;
+	font-family: arial;
+	margin-top: -1px;
+	margin-left: 15px;
+}
+/*.bgvideo .text-anchor .down, .bgvideo .text-anchor .text{
+  	width: 100%;
+  	margin-left: 40px;
+  }*/
+.padrigh_3 {
+	margin-right: 18px;
+}
+.lst4index:nth-child(5) {
+	padding-right: 0px!important;
+}
+.lst5:nth-child(5) {
+	padding-right: 0px!important;
+}
+.bspadding p {
+	font-size: 14px;
+}
+.project .keyBtn {
+	margin-top: 3px;
+	margin-bottom: 0px;
+}
+.ourser_pad4 {
+	padding: 0;
+}
+.ser-icont {
+	margin: auto;
+}
+.bgvideo {
+	height: 200px;
+}
+.bgvideo .text-anchor .text {
+	top: 60px;
+}
+.bgvideo .text-anchor .down, .bgvideo .text-anchor .text {
+	position: absolute;
+	margin-right: 15px;
+	left: 0;
+	right: 0;
+	text-align: center;
+	margin-left: 15px;
+}
+.prductdvtop {
+	background-color: #999898;
+	line-height: 2px;
+	margin-top: 14px;
+	margin-bottom: 15px
+}
+.project {
+	/* background-color: #fff; */
+	height: 260px;
+	position: relative;
+}
+#keyprojects {
+	padding-bottom: 15px;/* background-color: #fefef2; */
+}
+.newsweet {
+	color: #254a98;
+	font-size: 24px;
+	font-family: tungsten;
+	letter-spacing: 1.2px;
+	margin: 0 0 5px;
+	font-weight: 400;
+}
+#solutions .text-uppercase {
+	margin-top: 8px;
+}
+#blogs h2 {
+	letter-spacing: 0.60px;
+	font-size: 26px !important;
+	margin: 15px 0 !important;
+}
+#blogs .tomorrowThink span {
+	font-size: 17px;
+}
+.knowtext span {
+	font-size: 13px;
+	font-family: lato;
+	font-weight: 600;
+}
+.knowtext p {
+	font-size: 11px;
+	margin: auto;
+}
+.kndcentetrgit img {
+	height: 100%!important;
+	padding-bottom: 8px!important;
+}
+
+.knowtext {
+    position: absolute;
+    top: 0%!important;
+}
+.knowtext {
+	height: 98.5%!important;
+}
+#aboutus p {
+	text-align: justify;
+	color: #282828;
+	font-family: roboto;
+	font-style: regular;
+	font-size: 15px;
+	margin-left: 0;
+}
+.mt_0 {
+	font-family: lato;
+	font-weight: 700;
+	font-size: 22px;
+	color: #282828;
+	margin: 15px 0 5px;
+}
+.contactside_tower img {
+	width: 100%!important;
+	min-height: 375px;
+	margin-left: 0;
+}
+.directorprofile_div {
+	float: left;
+	width: 88%;
+	padding-left: 23px;
+}
+.whyus_desc p, .whyus_desc div, .whyus_desc span {
+	text-align: justify;
+	color: #282828;
+	font-size: 15px;
+	margin-left: 0;
+	margin-right: 0;
+}
+.team_profilenew {
+	border: 1px solid #ff6600;
+	height: 254px;
+	box-shadow: 3px 4px #f2f2f2;
+	width: 250px!important;
+	position: relative;
+	margin-left: 38px;
+	margin-top: 5px;
+}
+.whyus_desc ul li {
+	font-size: 15px;
+	padding-right: 0;
+	clear: both;
+}
+.directordetail_div {
+	padding-right: 0;
+}
+.downloadtop_border {
+	background-color: #ff6600;
+	line-height: 1px;
+	margin-bottom: 2px;
+	width: 100% !important;
+	margin-left: 0;
+	margin-top: 15px;
+}
+.download_content ul li {
+	float: left;
+	padding: 5px 0;
+	width: 50%;
+}
+.download_content ul {
+	list-style: none;
+	float: none;
+	padding: 0;
+	margin: 0;
+}
+.director_description p {
+	font-size: 15px;
+}
+.mangeteamul ul li {
+	padding: 0;
+	width: 50%;
+}
+.our_productp {
+	padding: 0 !important;
+	text-align: justify;
+	font-family: roboto;
+	font-size: 15px;
+}
+.director_head {
+	font-family: lato;
+	font-weight: 800;
+	font-size: 14px;
+	text-align: center;
+	color: #282828;
+	padding-bottom: 15px;
+	margin: 20px 0 0;
+}
+/*.mt_0{
+    text-align: center;
+ 
+     }*/
+.service-towerss .sttowers img {
+	padding-left: 0px;
+}
+#descriptionhovr, #descriptionhovr p, #descriptionhovr span {
+	color: #fff;
+	font-size: 10px!important;
+	font-family: arial!important;
+	line-height: 11px;
+}
+.service-acshadow h3 {
+	font-size: 10px;
+	margin-top: -2px;
+}
+.contact_contnr {
+	padding: 20px 15px !important;
+}
+.career_pd {
+	padding: 0;
+}
+.carejoin h1 {
+	font-size: 26px !important;
+	margin: 0 !important;
+	padding-top: 15px;
+}
+.pdleft_0career {
+	padding: 0 0 5px !important;
+}
+.carejoin span {
+	color: #000;
+	font-family: roboto;
+	font-size: 18px;
+	line-height: 24px;
+}
+.pdleft_0career span {
+	color: #ff6600;
+	font-family: lato;
+	font-weight: 600;
+	font-size: 18px;
+}
+.selfservice img {
+	width: 100%;
+	height: 335px;
+}
+ .container {
+ width: 100% !important;
+}
+}
+
+
+@media only screen and (max-width: 480px) {
+    
+ #cameraSliderHeader {
+     height:200px!Important;
+ }   
+    
+.captinp-cont {
+	padding: 8px;
+	width: 130%;
+	font-size: 12px;
+}
+#copyriht .copyr .c_innr_lft{
+	font-size: 10px;
+}
+#copyriht .copyr .c_innr_rt{
+	font-size: 10px;
+}
+.h2, h2{font-size: 17px!important}
+.productbt-hov {
+	top: 62.4%;
+}
+#bsstreems .bsBtn {
+	padding-top: 2px;
+	font-size: 15pt;
+	margin-top: -26px!important;
+}
+#bsstreems .bsBtn {
+	padding-top: 2px;
+	font-size: 15pt;
+	margin-top: -31px!important;
+}
+.owl-carousel .owl-item img {
+	height: 150px!important;
+}
+.mnconts span {
+	line-height: 10px;
+	font-size: 12px!important;
+}
+.testimonialNamet {
+	font-size: 15px;
+	color: #ff6600;
+	font-weight: 300;
+	padding-left: 20px;
+}
+.test_img_monial {
+	height: 45px !important;
+	width: 45px !important;
+}
+.testtimonialDescription {
+	color: #254a98;
+	font-size: 10pt;
+	padding-left: 20px;
+	font-family: arial;
+}
+.mnconts {
+	position: absolute;
+	top: 0;
+	left: 5px;
+	line-height: 20px;
+	padding: 2px 27px 15px 13px!important;
+	text-align: left;
+}
+.product_data_sev ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#copyriht .copyr .c_innr_rt {
+	float: left;
+	padding-top: 10px;
+}
+.product_data_sev ul li {
+	width: 100%;
+	float: left;
+	margin: 0 0;
+}
+.mangeteamul ul li {
+	padding: 0;
+	width: 20%;
+}
+.our-productcol {
+	height: 485px;
+}
+.product_data ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.product_data ul li {
+	width: 100%;
+	float: left;
+	margin: 0 0;
+}
+.mangeteamul ul li {
+	padding: 0;
+	width: 100%;
+}
+.download_content ul li {
+	float: left;
+	padding: 5px;
+	width: 100%;
+}
+.download_content ul {
+	list-style: none;
+	float: right;
+	padding: 0;
+	margin: 0;
+}
+.contact_contnr {
+	padding: 20px 15px !important;
+}
+.contct-ttle h3 {
+	font-size: 18px;
+	text-align: center;
+}
+.addrss_pd span {
+	font-size: 12px;
+}
+.flo_position i {
+	font-size: 15px!important;
+}
+.contct-ttle h5 {
+	font-size: 14px;
+}
+.contact-detail table tr td {
+	font-size: 12px;
+}
+.kndcentetrgit img {
+	width: 100%!important;
+}
+.knowtext {
+	height: 97.5%!important;
+}
+.srvc_pd0 {
+	padding-left: 15px!important;
+}
+.kndcentetrgit {
+	height: 287px!important;
+}
+.showteam_div img {
+     width:100%;
+}
+}
+
+@media only screen and (max-width: 1160px) {
+.container {
+	width: 100%! important
+}
+.selfservice img {width:100%;height:311px;}
+.bspadding {
+    margin-bottom: 20px;
+    padding: 5px 0px 10px 0px;
+    height: 84px;
+    /* border: 1px solid #f1b825; */
+    text-align: justify;
+}
+.team_profilenew {
+    width: 250px;
+    margin-top: 14px;
+    margin-left: -16px;
+}
+.mangeteamul ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.mangeteamul ul li {
+    padding: 0;
+     width: 19% !important; 
+}
+.mangeteamul ul li {
+	padding: 0px;
+}
+.bspadding p {
+	font-size: 13px;
+}
+#bsstreems .bsBtn {
+	padding-top: 2px;
+	font-size: 15pt;
+	margin-top: -40px;
+}
+.my_item {
+	height: 100%;
+	position: relative;
+}
+.knowtext {
+	position: absolute;
+	top: 0%;
+	/* text-align: center; */
+    /* left: 10%; */
+	width: 62%;
+	padding: 40px;
+	background-color: #eff2bab5;
+}
+}
+@media only screen and (max-width: 320px){
+.productbt-hov {
+    top: 65.4%;
+}
+.owl-carousel .owl-item img {
+	height: 215px!important;
+}
+.h2, h2{font-size: 17px!important}
+.our-productcol {
+    height: 431px;
+}
+.product_data ul li {
+    width: 100%;
+    float: left;
+    margin: 0 0;
+}
+#copyriht .copyr .c_innr_lft{
+	font-size: 10px;
+}
+#copyriht .copyr .c_innr_rt{
+	font-size: 10px;
+}
+.mnconts span{
+	font-size: 12px!important;
+}
+#bsstreems .bsBtn{margin-top:-25px!important;}
+}
+@media only screen and (max-width: 1024px){
+#descriptionhovr, #descriptionhovr p, #descriptionhovr span {
+    color: #fff;
+    height: 225px;
+    text-align: justify;
+    overflow: hidden;
+    font-size: 14px!important;
+    font-family: arial!important;
+    /* line-height: 22px; */
+}
+.service-acshadow h3 {
+    font-size: 20px;
+    font-family: lato;
+    font-style: italic;
+    font-weight: 700;
+    color: #fff;
+}
+.selfservice img {
+    width: 100%;
+    height: 318px;
+}
+.input-pad {
+    width: 36.5%;
+    padding: 8px;
+}
+.newsweet {
+    color: #254a98;
+    font-size: 27pt;
+    font-family: tungsten;
+    letter-spacing: 1.2px;
+    font-weight: 400;
+}
+.bspadding p {
+    font-size: 12px;}
+.h2, h2{font-size: 17px!important}
+.bspadding {
+    /* bottom: 5px; */
+    margin-bottom: 24px;
+    overflow: hidden;
+    padding: 5px 0px 10px 0px;
+    height: 84px;
+    /* border: 1px solid #f1b825; */
+    text-align: justify;
+}
+.our-productcol {
+     height: 380px; 
+}
+.streem-product img {
+    display: block;
+    /* max-width: 100%; */
+     min-height: 184px;
+    border-radius: 2%;
+    position: relative;
+    width: 100%;
+}
+ #bsstreems .bsBtn {
+    padding-top: 2px;
+    font-size: 15pt;
+    margin-top: -25px;}
+
+    .productbt-hov span {
+    	 font-size: 22px;
+	}
+
+    .productbt-hov {
+    top: 38%;}
+.knowtext {
+    position: absolute;
+    /*top: 11%;
+    height: 88%;*/}
+.lSSlideOuter.vertical .lightSlider>* {
+    width: 100%!important;
+    max-width: none!important;
+    padding-left: 15px;}
+.kndcentetrgit img {
+    width: 100%;
+    height: 88%;
+    padding-bottom: 58.8px;}
+   
+#blogs {
+    background-color: #fffef2;
+    padding-bottom: 10px;
+}
+.showteam_div img {
+    width: 162px!important;
+}
+.team_profilenew {
+    width: 192px!important;
+    margin-top: 14px;
+}
+.contactside_tower img{
+	height: 475px;
+}
+
+.kndcentetrgit img {
+    width: 100%;
+    height: 100%;
+    padding-bottom: 0;
+}
+}
+
+/*rohit durgapal responsive*/
+@media only screen and (max-width: 1300px) {
+.directordetail_div {
+    padding-right: 15px !important;
+    padding-left: 25px !important;
+}
+    
+}
+
+
+
+@media only screen and (max-width: 767px) {
+.hovereffect {
+    position: relative !important;
+}
+#cameraSliderHeader {
+    height: 215px !important;
+    min-height:215px !important;
+}
+#bsstreems h2 {
+    font-size: 25px !important;
+}
+.newsweet {
+    font-size: 20px !important;
+}
+#copyriht .copyr .c_innr_lft {
+    font-size: 12px !important;
+}
+#copyriht .copyr .c_innr_rt {
+    font-size: 12px !important;
+    padding-top: 0px !important;
+}
+#commonheaderId {
+    height: 215px !important;
+ }
+ .commmon_tittleheader {
+    bottom: 0 !important;
+    top: 40% !important;
+}
+.fancy_heading_header {
+    font-size: 23px !important;
+ }
+.mt_0 {
+    font-size: 18px !important;
+}
+ #aboutus p {
+    font-size: 14px !important;
+ }
+.contactside_tower img {
+    height: auto !important;
+}
+.contactside_tower img {
+    height: auto !important;
+    min-height: 200px !important;
+}
+.mobilepaddingzero{
+    padding:0px !important;
+}
+.directorprofile_div {
+    width: 100% !important;
+    padding-left: 0 !important;
+}
+.team_profilenew {
+    width: 100% !important;
+    margin: 0px !important;
+    margin-top: 14px !important;
+ }
+#career_header {
+    height: auto;
+    overflow: hidden;
+}
+#career_header img {
+    max-height: 190px !important;
+    height: 190px !important;
+ }
+.headh1_service {
+    font-size: 25px !important;
+}
+.selfservice .service-acshadow {
+    right: 20% !important;
+ }
+ #descriptionhovr, #descriptionhovr p, #descriptionhovr span {
+    height: auto !important;
+    font-size: 13px !important;
+    line-height: 16px !important;
+}
+.service-acshadow h3 {
+    font-size: 16px !important;
+}
+.projName {
+    width: 100%;
+    height: auto;
+    margin-bottom: 0px !important;
+    border-bottom: 0px solid #ececec;
+    box-shadow: 0px 0px #ececec;
+}
+.proall {
+   display:none !important;
+    
+}
+.prodcut_textcontnt p {
+    font-size: 14px;
+    text-align: justify;
+}
+.forengineeringdetailimg img{
+    margin-bottom:20px !important;
+}
+.owl-carousel .owl-item img {
+    height: 200px !important;
+}
+.relatedimagessafe {
+    font-size: 23px !important;
+    margin: 12px 0px !important;
+}
+.safetytowerpolicies {
+    text-align: left !important;
+    margin-top: 10px !important;
+}
+.qualityimage{
+    margin-bottom: 20px;
+    padding: 0px !important;
+}
+.container-fluid {
+    padding-right: 0px !important;
+ }
+.mobilezoomicon{
+    width:auto !important;
+    height:auto !important;
+}
+.mobilepaddingzero1{
+    padding: 0px !important;
+    margin-bottom: 20px;
+}
+}
+
+
+@media only screen and (max-width: 375px) {
+
+    
+}
+
+
+
+

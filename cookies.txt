@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+safetowers.com	TRUE	/	FALSE	1999999999	PHPSESSID	6cqotq1s0t4p1s28djj2c1dic6
+.pixabay.com	TRUE	/	FALSE	1999999999	__cf_bm	3f46d8a7cadf7572026b1c9bf0fba927d446c7be-1626350368-1800-AftpD7wHvExMQCjG45hAveB7S6jzlx0OLJWxqUwa321JtTSy/p1t0b7dUWf2GEXlo8NmPgT0gtOb1+Rf3uw/pOE=
+cdn.pixabay.com	TRUE	/	FALSE	1999999999	SameSite	None
+

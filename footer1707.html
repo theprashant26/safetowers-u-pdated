@@ -1,0 +1,126 @@
+  <div class="clearfix"></div>
+	<section class=""><div class="footertopDiv">&nbsp;</div></section>
+	<section id="footer">
+		<div class="container">
+			<div class="tbox">
+				<div class="box1">
+				  <table>
+				    <tr style="ft-trstyle">
+					  <td><img src="safe_images/safetower-footerlogo.png" class="ft-sflog"></td>
+					  
+					</tr>
+				  </table>
+				 <!-- <div class="ftdivbeloim">&nbsp;</div>-->
+				  <table class="addrr_div">
+				   <tr>
+				      <td><div class="ftmarker"><i class="glyphicon glyphicon-map-marker"></i></div></td>
+					  <td><div class="ftaddress"><span>Plot-65, Pocket-1, Jasola Vihar <br> New Delhi - 110025 India</span></div></td>
+				   </tr>
+				   <tr>
+				      <td><div class="ftmarker"><i class="glyphicon glyphicon-envelope"></i></div></td>
+					  <td><div class="ftaddress"><span>info@safetowers.com</span></div></td>
+				   </tr>
+				   <tr>
+				      <td><div class="ftmarker"><i class="glyphicon glyphicon-earphone"></i></div></td>
+					  <td><div class="ftaddress"><span>+91-11 - 40540412 <br> +91 - 9811206658</span></div></td>
+				   </tr>
+				  </table>
+				</div>
+
+				<div class="box12 box2">
+					<h4>QUICK LINKS</h4>
+					<div class="linklist">
+						<a href="index.html">HOME</a> 
+						<a href="about-us.html">ABOUT US</a>
+						<a href="our-products.html">PRODUCTS</a>
+						<a href="services.html">SERVICES</a>
+						<a href="careers.html">CAREERS</a>
+						<a href="contact.html">CONTACT US</a>
+					</div>
+				</div>
+
+
+				<div class="box12">
+				 	<h4>SERVICES</h4>
+				  	<div class="linklist">
+											</div>
+				</div>
+
+				<div class="box12" style="width: 12%;margin-left: 70px;">
+				  	<h4>FOLLOW US</h4>
+					<table width="100%" border="0">
+						<tbody>
+						  	<tr>
+							    <td colspan="4"><a class="socaillinkft" href="#"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="socaillinkft" href="#"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="socaillinkft" href="#"><i class="fa fa-linkedin"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="socaillinkft" href="#"><i class="fa fa-instagram"></i></a></td>
+						  	</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="copyriht">
+	<div class="copyr">
+	   <div class="container">
+				<div class="c_innr_lft">
+				  	<table border="0" cellpadding="0" cellspacing="0">
+					  	<tbody>
+						  	<tr>
+							    <td colspan="2">&copy; 2018 Safe Towers (P) LTD. </td>
+							    <td>&nbsp;&nbsp;&nbsp;</td>
+							    <td>|</td>
+							    <td>&nbsp;</td>
+							    <td>&nbsp;&nbsp;Powered by &nbsp;</td>
+							    <td>
+							    	<a href="http://deboxglobal.com/" target="_blank">
+							    	<img src="../www.deboxglobal.com/images/logo_debox_tagline-w.png" width="68" border="0"></a>
+							    </td>
+						  	</tr>
+						</tbody>
+					</table>
+				</div>
+
+				<div class="c_innr_rt">
+					<a href="privacy-policy.html">Privacy Policy</a>&nbsp;&nbsp; | 
+					<a href="terms-and-conditions.html">&nbsp;&nbsp;Terms &amp; Conditions</a>
+				</div>
+		</div>
+	  </div>
+	</section>
+	<script type="text/javascript" src="assets/js/safetowers.html"></script>
+	<script src="../ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="assets/js/lightslider.min.html"></script> 
+    <script>
+    	 $(document).ready(function() {
+            $('#vertical').lightSlider({
+                gallery:false,
+                item:2,
+                thumbItem:0,
+                slideMargin: 5,
+                speed:500,
+                auto:true,
+                vertical:true,
+                loop:true,
+            });
+            // click open details
+            $(".my_item").click(function(){
+            	var imgsrc = $(this).children("img").attr('src');
+            	var title = $(this).children('.title').text();
+            	var id = $(this).children('.id').text();
+            	var date = $(this).children('.date').text();
+            	var description = $(this).children('.description').text();
+            	var ancor = $(this).children("a").attr('href');
+            	
+            	$("#img").attr('src',imgsrc);
+            	$("#title").text(title);
+            	$("#date").text(date);
+            	$("#description").text(description);
+            	$("#id").text(id);
+            	$("#ancor").attr('href',ancor);
+            });
+            $('.kndcentetrgit').css('height',$('.kndcenteima').height());
+		});
+	
+    </script>
+</body>
+</html>
